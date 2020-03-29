@@ -1,4 +1,4 @@
-#Install instructions
+# Install instructions
 1. Make sure you've got [NodeJS](https://nodejs.org/en/download/) installed
 2. Run `npx degit badgrenola/svelte-tailwind your-lovely-app`
 3. `cd your-lovely-app`
